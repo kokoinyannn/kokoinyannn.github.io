@@ -6,9 +6,9 @@
 <body>
 <?php
 print $_POST["name"];
-    $fh = fopen('./a.txt',a);
+    /*$fh = fopen('./a.txt',a);
     fwrite($fh,"ABCD"."\r\n");
-    fclose($fh);
+    fclose($fh);*/
 ?>
 </body>
 </html>
