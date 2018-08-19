@@ -5,7 +5,7 @@
 
 <body>
 <?php
-print $_GET["name"];
+print $_POST["name"];
     /*$fh = fopen('./a.txt',a);
     fwrite($fh,"ABCD"."\r\n");
     fclose($fh);*/
